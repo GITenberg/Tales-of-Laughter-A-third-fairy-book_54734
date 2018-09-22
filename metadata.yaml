@@ -1,5 +1,8 @@
 _repo: Tales-of-Laughter-A-third-fairy-book_54734
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54734-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Wiggin, Kate Douglas Smith
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8693
     wikipedia: http://en.wikipedia.org/wiki/Nora_Archibald_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54734#Tales-of-Laughter-A-third-fairy-book
 gutenberg_issued: '2017-05-16'
 gutenberg_type: Text
 identifiers:
